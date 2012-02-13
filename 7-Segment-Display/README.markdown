@@ -36,14 +36,12 @@ for e.g: you need to light the segments 0,1,2,3,4,5 to draw a 0 on 7-seg-display
 <br>
 //1
 <br>
-
 (1<<1) |
 (1<<2),
 
 <br>
 //2
 <br>
-
 (1<<0) |
 (1<<1) |
 (1<<6) |
@@ -53,7 +51,6 @@ for e.g: you need to light the segments 0,1,2,3,4,5 to draw a 0 on 7-seg-display
 <br>
 //3
 <br>
-
 (1<<0) |
 (1<<1) |
 (1<<2) |
@@ -63,7 +60,6 @@ for e.g: you need to light the segments 0,1,2,3,4,5 to draw a 0 on 7-seg-display
 <br>
 //4
 <br>
-
 (1<<1) |
 (1<<2) |
 (1<<5) |
@@ -72,7 +68,6 @@ for e.g: you need to light the segments 0,1,2,3,4,5 to draw a 0 on 7-seg-display
 <br>
 //5
 <br>
-
 (1<<0) |
 (1<<5) |
 (1<<6) |
@@ -82,7 +77,6 @@ for e.g: you need to light the segments 0,1,2,3,4,5 to draw a 0 on 7-seg-display
 <br>
 //6
 <br>
-
 (1<<0) |
 (1<<5) |
 (1<<6) |
@@ -93,7 +87,6 @@ for e.g: you need to light the segments 0,1,2,3,4,5 to draw a 0 on 7-seg-display
 <br>
 //7
 <br>
-
 (1<<0) |
 (1<<1) |
 (1<<2),
@@ -101,7 +94,6 @@ for e.g: you need to light the segments 0,1,2,3,4,5 to draw a 0 on 7-seg-display
 <br>
 //8
 <br>
-
 (1<<0) |
 (1<<1) |
 (1<<2) |
@@ -113,7 +105,6 @@ for e.g: you need to light the segments 0,1,2,3,4,5 to draw a 0 on 7-seg-display
 <br>
 //9
 <br>
-
 (1<<0) |
 (1<<1) |
 (1<<2) |
